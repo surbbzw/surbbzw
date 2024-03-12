@@ -1,8 +1,8 @@
 ### Dear students 👋
 
-- 🔭 I’m currently working on @ipt-9
-- 👯 I’m looking to collaborate on @ipt-9
-- 💬 Ask me about @ipt-9
+- 🔭 I’m currently working on [ipt-9](https://github.com/ipt-9)
+- 👯 I’m looking to collaborate on [ipt-9](https://github.com/ipt-9)
+- 💬 Ask me about [ipt-9](https://github.com/ipt-9)
 - 📫 Reach me via the official communication channels of our school
 - ⚡ Fun fact: Why do teachers prefer ice hockey over soccer? There are two breaks! 😉🙃🤩
 
